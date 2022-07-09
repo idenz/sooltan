@@ -1,0 +1,27 @@
+{
+  "name": "sooltan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "denny_dharmawan.js",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli"],
+  "bin": {
+    "mytools": "./denny_dharmawan.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idenz/sooltan.git"
+  },
+  "author": "denny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idenz/sooltan/issues"
+  },
+  "homepage": "https://github.com/idenz/sooltan#readme"
+}
