@@ -8,6 +8,10 @@
 ```sh
 # Clone project
 > git clone https://github.com/idenz/sooltan.git
+> cd sooltan
+
+# Install package
+> npm install
 
 # Change to global project
 > npm install -g .
